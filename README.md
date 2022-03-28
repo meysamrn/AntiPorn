@@ -53,7 +53,7 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 2. Open [DNS66](https://github.com/julian-klode/dns66#installing)
 3. Click on HOSTS button to select the "HOSTS" section of the APP
 4. Click on the + floating button on the lower-right corner
-5. Insert a title of your choice and the following url: https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt
+5. Insert a title of your choice and the following url: hhttps://raw.githubusercontent.com/Anlominus/AntiPorn/main/PornHosts
 6. Save the filter you created by clicking the check mark on the top-right corner
 7. Press the refresh button on the top-right corner
 8. Go back to the "START" section of the APP and start it
