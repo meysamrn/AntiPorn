@@ -4,7 +4,7 @@ AntiPorn - Blocking Porno Sites. Wait for more...
 # Anti Porn HOSTS File
 The purpose of this repository is to distribute a useful mean to fight porn addiction.
 
-If you are willing to improve your life and get rid of porn addiction then Google `NoFap®`.
+If you are willing to improve your life and get rid of porn addiction then Google [`@NoFap`](https://en.wikipedia.org/wiki/NoFap)
 
 ## What's the HOSTS file and how it can prevent access to porn sites?
 HOSTS file contains the mappings of IP addresses to host names.
