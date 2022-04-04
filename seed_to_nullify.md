@@ -1,10 +1,5 @@
 ## The iniquity of a seed to nullify causes several things in man himself and in the higher worlds
 
-
-- The cause of the separation of the human soul from the divine light that animates it, this is called in the language of the Torah "Crete" (detailed below).
-
-- This iniquity causes a disconnect between man and the Creator of the world to such an extent that it is written that there is a "wall" separating him from the name for 40 days (If intentionally).
-
 ### In the human psyche:
 - The cause of the separation of the human soul from the divine light that animates it, this is called in the language of the Torah "Crete" (detailed below).
 - This iniquity causes a disconnect between man and the Creator of the world to such an extent that it is written that there is a "wall" separating him from the name for 40 days (intentionally).
