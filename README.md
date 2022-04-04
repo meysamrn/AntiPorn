@@ -8,6 +8,37 @@ AntiPorn
 
 AntiPorn - Blocking Porno Sites. Wait for more...
 
+### It is known how serious a matter is that violates the covenant, which is torn apart badly, and how much evil is drawn from it. In the following, we will detail some of the mentions in the holy books ("Glue from the Brotherhood" and "The Brotherhood of Our Souls"):
+- Causes length of exile.
+- He will not get to see the face of Shechinah.
+- Will not rise in the resurrection.
+- D. His sons die when they are small.
+- His soul rolls into an inefficient man.
+- Causes reincarnation for several souls.
+- Brings deaths and epidemics to the world.
+- Prevents him from understanding the study of the Torah, and in particular the mysteries of the Torah.
+- Causes poverty to him and his sons.
+- His sons will be wicked, infidels and heretics.
+- His prayer and teachings are not accepted.
+- He has no part in the next world, and must die in the hands of heaven.
+- Considered to be shedding blood.
+- Causes breathing difficulties.
+
+### This sin is caused to man because of other bad deeds, which lead to a continuation of this terrible sin. These include:
+
+ 
+
+- Which tells slander and lies.
+- Which reveals a secret that is not worthy of being revealed.
+- Who blesses a blessing to nullify.
+- Who swears and does not keep.
+- Who looks at the woman and her clothes.
+- That I eat coarse food.
+- Sleeping in a room alone.
+- Sleeping on his stomach.
+- Who is often worried.
+- Meditating on the day of contemplation of an offense.
+
 # Anti Porn HOSTS File
 The purpose of this repository is to distribute a useful mean to fight porn addiction.
 
