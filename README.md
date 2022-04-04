@@ -12,19 +12,19 @@ AntiPorn - Blocking Porno Sites. Wait for more...
 
 ### In this article we will review the following topics:
 
-Why keep the covenant? And what do you gain by keeping the covenant?
-Why is sperm not allowed to be ejected?
-Is there no despair in the world at all?
-How are they accidentally and accidentally saved from the above?
-What causes sin?
-Kerry or intentional - what to watch out for?
-What do I do if I fall?
-How do you deal with forbidden sights (including porn addiction)?
-Is it impossible to keep the covenant?
-How does this affect home peace and love between a man and his wife?
-Corrections to the defect of the covenant and the latter.
-Recommended books to read on the subject
-The article of the Holy Muharram on the subject of keeping the covenant and a seed for annulment.
+- Why keep the covenant? And what do you gain by keeping the covenant?
+- Why is sperm not allowed to be ejected?
+- Is there no despair in the world at all?
+- How are they accidentally and accidentally saved from the above?
+- What causes sin?
+- Kerry or intentional - what to watch out for?
+- What do I do if I fall?
+- How do you deal with forbidden sights (including porn addiction)?
+- Is it impossible to keep the covenant?
+- How does this affect home peace and love between a man and his wife?
+- Corrections to the defect of the covenant and the latter.
+- Recommended books to read on the subject
+- The article of the Holy Muharram on the subject of keeping the covenant and a seed for annulment.
 
 ---
 
