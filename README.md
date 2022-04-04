@@ -61,6 +61,74 @@ AntiPorn - Blocking Porno Sites. Wait for more...
 
 ---
 
+### First thing: What does one who keeps the covenant gain?
+
+- Keeper of his covenant, the world exists by virtue of which it is said: "Thus saith the Lord, If I have not broken day and night, I have not made the laws of heaven and earth."
+- Is called righteous
+- Gets a livelihood in abundance and comfort!
+- Wins home peace and love between a man and his wife.
+- His prayer goes up before the name and works a lot.
+- All who keep his covenant, as if the whole Torah existed.
+- The future to come gets to see Gd literally without a differentiating screen.
+- A winner who dies in the burial of the beha.
+- A winner that the Shechinah will always serve him, and a winner to photograph Gd, and her portrait is impressive in the Shechinah.
+- A winner whose body shines, and no maggot and worm controls him after her death.
+- He is called a hero, "because what kind of hero? This is the one who conquers his instinct," and just an instinct is the instinct of incest.
+- For the future to come God will clothe him in the garb of a king.
+- Gets to be clinging to Gd, and that is the purpose of creation.
+- If he contracted a disease that is, God Himself heals him and not by an angel.
+- Attracts all kinds of good influences, both livelihood and other things.
+- Gd has kept, and there is no man and nothing in the world who can touch and harm him.
+- Gd boasts of Him every day, Kana ': three Gd declares them every day, "a bachelor Citrus in the volume and is not a sinner, "and this is the only thing that God praises in this way.
+- God always remembers him.
+- Is called innocent, as a dictum: "Man Dantir Brit Etkri is an innocent man."
+- Is called Tzaddik, as Yosef the Tzaddik who is in terms of the foundation.
+- All the abundance that descends into the world descends first to it and then to the whole world.
+- His sons will be righteous, and he who gives his soul to repair this defect, must come out of it some righteous man And a saint from his descendants.
+- No sabotage angels are allowed to approach him.
+- Continues to influence the abode of our strength, and protects the whole world.
+- Gets to enjoy the work of God, such as: On Shabbat gets to feel what is the pleasure and sanctity of Shabbat, as well Gets to feel the soul excess in him.
+- God Okir was on jail.
+- He will be saved from the torments of Messiah and from all kinds of deaths, and will be redeemed.
+- After the resurrection, on the Day of Judgment, he will remain alive.
+- When Gd renews His world in the seventh millennium, He will not renew His world only thanks to the keepers of the covenant.
+- A creditor is called to the Shechinah, and Iz can direct his prayers properly.
+- Wins the kingdom as Joseph the righteous.
+- From one of Kova and its neighbors.
+- Wins after his death to enter all the gates of the righteous.
+- It is called H.I., and is linked to the degree of H.I.
+- When he dies from the world the angel of death is not allowed to approach him, and no one dies by him.
+- There is a line on it with the name Hoya B'H, and all the upper and lower ones are afraid of it.
+- Gets a lot of souls out of hell.
+- Become a partner of Gd in the creation of his world, as a dictum: "I did not put heaven and earth. "
+- Won to subdue D. unclean shells: iniquity, corruptor, nose, and wrath, all troubles and evils Who come into the world come because of them.
+- God hides him from his enemies.
+- No cataloger can touch his soul.
+- Wins to reach high stairs.
+- Causes the sweetening of the laws.
+- Is called a whole person, and is also called a saint.
+- When there is sorrow in the world, the fathers participate with it in revoking the decree.
+- The outsiders and SA are moving away from him.
+- From among the redemption and the building of the synagogue.
+- After his death he deserves to be buried in the ark as Joseph the righteous.
+- Exploitation of all laws that will come upon him after his death.
+- His body does not return to being dirt, and taken advantage of from the beating of the grave.
+- All the ascents and descents of the angels for their mission in this world take place thanks to him.
+- Thanks to him, many people are saved from the defect of the covenant, and this is because he influences a world of sacred abundance in the world And purity.
+- He deserves to be offered on the altar as a high priest, and in the future he will be privileged to offer sacrifices even though Pi who is not Cohen.
+- His mind is refined, and gains wisdom, understanding, and knowledge.
+- Won to be a chariot for the upper element.
+- Wins the credit of others, and his words are acceptable.
+- Won to do charity properly.
+- Won to pray properly.
+- Wins complete faith.
+- Supervised under more private supervision from all over the world.
+- And the last and least virtue of all, is the general virtue, and it is: As long as the people of Israel keep the covenant, no nation and language can control them and do them any harm.
+
+
+---
+
+
 # Anti Porn HOSTS File
 The purpose of this repository is to distribute a useful mean to fight porn addiction.
 
