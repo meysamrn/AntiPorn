@@ -127,7 +127,7 @@ Menu() {
     read cmd
     case ${cmd} in
       a)
-        install
+        Install
       ;;
       1)
         Backup
