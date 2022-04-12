@@ -69,7 +69,7 @@ Backup(){
   }
 
 Rename(){
-  echo "# Renaming old PornHosts To hosts"
+  echo "# Renaming PornHosts To hosts"
   sleep 1
   mv PornHosts hosts
   sleep 2
@@ -86,16 +86,18 @@ Replace(){
   sleep 1
   }
 
-Intall(){
-  sleep 1
+Install(){
+  clear
+  echo " "
   Backup
-  sleep 1
+  echo " "
   Rename
-  sleep 1
+  echo " "
   Replace
+  echo " "
   sleep 1
   echo "# ${white}Anti${cyan}Porn Installing Successfully !"
-  sleep 5
+  sleep 15
 }
 
 About(){
@@ -107,7 +109,7 @@ About(){
   echo " ${white}Anti${cyan}Porn is a library of Porno Hosts"
   echo " ${white}Anti${cyan}Porn tools for MacOS, Windows, Linux, Android"
   echo " ${red}Warning:${nc}"
-  sleep 5
+  sleep 1
 
 }
 
