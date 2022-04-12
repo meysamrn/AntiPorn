@@ -48,8 +48,9 @@ Banner(){
   $white   d88P   888 888  888 888    888 ${cyan}888       888  888 888     888  888
   $white  d8888888888 888  888 Y88b.  888 ${cyan}888       Y88  88P 888     888  888
   $white d88P     888 888  888  Y888 888  ${cyan}888         Y88P   888     888  888 ${MAGENTA}
-  ${cyan}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${white}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-            ${white}  ▒ https://www.github.com/Anlominus/${white}Anti${cyan}Porn ▒${orange} April 2022"
+  ${cyan}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${white}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+  ▒ Anlominus${white} ▒ https://www.github.com/Anlominus/${white}Anti${cyan}Porn ▒${orange} April 2022 ▒
+  ${cyan}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${white}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒"
 }
 logo="$(Banner)"
 
