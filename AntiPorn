@@ -2,7 +2,7 @@
 # Name : AntiPorn
 # description: Block Porno Sites 
 # Tested on: MacOS, Linux, Windows coming soon..
-# Date : April 2022
+# Date : 12 April 2022
 # |
 nc="\033[00m"
 white="\033[1;37m"
@@ -38,23 +38,23 @@ RESETBG="$(printf '\e[0m')"
 BLINK="$(printf '\033[5;31m')"
 # |
 Banner(){
-  echo "$BLUE
-       d8888          888    d8b 8888888b.                           
-      d88888          888    Y8P 888   Y88b                          
-     d88P888          888        888    888                          
-    d88P 888 88888b.  888888 888 888   d88P .d88b.  888d888 88888b.  
-   d88P  888 888  88b 888    888 8888888P  d88  88b 888P    888  88b 
-  d88P   888 888  888 888    888 888       888  888 888     888  888 
- d8888888888 888  888 Y88b.  888 888       Y88  88P 888     888  888 
-d88P     888 888  888  Y888 888 888         Y88P   888     888  888 ${cyan}
+  echo "$white
+       d8888          888    d8b ${BLUE}8888888b.                           
+      d88888          888    Y8P ${BLUE}888   Y88b                          
+     d88P888          888        ${BLUE}888    888                          
+    d88P 888 88888b.  888888 888 ${BLUE}888   d88P .d88b.  888d888 88888b.  
+   d88P  888 888  88b 888    888 ${BLUE}8888888P  d88  88b 888P    888  88b 
+  d88P   888 888  888 888    888 ${BLUE}888       888  888 888     888  888 
+ d8888888888 888  888 Y88b.  888 ${BLUE}888       Y88  88P 888     888  888 
+d88P     888 888  888  Y888 888 ${BLUE}888         Y88P   888     888  888 ${cyan}
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-▒ https://www.github.com/Anlominus/AntiPorn"
+▒ https://www.github.com/Anlominus/${white}Anti${blue}Porn"
 }
 logo="$(Banner)"
 
 Prompt(){
   echo ""
-  echo "  ${orange}  ┌──[${blue}Anlominus${purple}👽${red}HacKits${cyan}$~${orange}]${cyan}"
+  echo "  ${orange}  ┌──[${blue}Anlominus${purple}👽${white}Anti${blue}Porn${cyan}$~${orange}]${cyan}"
   echo "  ${orange}  └──╼${green}"
 }
 Backup(){
@@ -67,7 +67,7 @@ Backup(){
   }
   
 Rename(){
-  echo "# Renaming old AntiPornHosts To hosts"
+  echo "# Renaming old PornHosts To hosts"
   sleep 1
   `sudo mv PornHosts hosts`
   sleep 2
@@ -80,7 +80,7 @@ Replace(){
   sleep 1
   `sudo cp hosts /etc/hosts`
   sleep 2
-  echo "# Replacing Done Successfully !"  
+  echo "# ${white}Anti${blue}Porn Done Successfully !"  
   sleep 1
   }
  
@@ -93,10 +93,22 @@ Intall(){
   sleep 1
   Replace
   sleep 1
-  echo "# AntiPorn Installing Successfully !"  
+  echo "# ${white}Anti${blue}Porn Installing Successfully !"  
   sleep 5
 }
 
+About(){
+  clear
+  sleep 1
+  Banner
+  sleep 1
+  echo " ${white}Anti${blue}Porn ${orange} v1${nc}"
+  echo " ${white}Anti${blue}Porn is a library of Porno Hosts"
+  echo " ${white}Anti${blue}Porn tools for MacOS, Windows, Linux, Android"
+  echo " ${red}Warning:${nc}"
+  sleep 5
+
+}
 
 # this is the main function
 Menu() {
@@ -104,13 +116,12 @@ Menu() {
     clear
     echo "$(banner)"
     echo " "
-    echo "${cyan}     [a] ${green} Automating Install AntiPorn"    
+    echo "${cyan}     [a] ${green} Automating Install ${white}Anti${blue}Porn"    
     echo "${cyan}         ${green}[ Manual Installing ]"
     echo "${cyan}     [1] ${green} Backup old Hosts to hosts_old "
     echo "${cyan}     [2] ${green} Rename PornHosts to hosts"
     echo "${cyan}     [3] ${green} Replace & Install"
-    echo "${cyan}     [4] ${green} Update HacKits"
-    echo "${cyan}     [5] ${green} About us"
+    echo "${cyan}     [4] ${green} About us"
     echo "${cyan}     [x] ${green} Exit"
     echo "$(Prompt)"
     read cmd
@@ -128,7 +139,7 @@ Menu() {
         Replace
       ;;
       4)
-        about
+        About
       ;;
       x|exit|Exit)
         echo "${green}Exiting ....${nc}"
