@@ -1,7 +1,7 @@
 <div align=center>
 
-  ![image](https://user-images.githubusercontent.com/51442719/161439670-5897affb-97e1-4953-8479-533acfcbad08.png)
-
+<img width="647" alt="image" src="https://user-images.githubusercontent.com/51442719/163016455-d1a2e2a1-f84f-4870-96fa-ea64f6d247fe.png">
+  
 </div>
 
 AntiPorn
