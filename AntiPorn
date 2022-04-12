@@ -1,6 +1,6 @@
 #!/bin/sh
 # Name : AntiPorn
-# description: Block Porno Sites 
+# description: Block Porno Sites
 # Tested on: MacOS, Linux, Windows coming soon..
 # Date : 12 April 2022
 # |
@@ -38,54 +38,55 @@ RESETBG="$(printf '\e[0m')"
 BLINK="$(printf '\033[5;31m')"
 # |
 Banner(){
-  echo "$white
-       d8888          888    d8b ${BLUE}8888888b.                           
-      d88888          888    Y8P ${BLUE}888   Y88b                          
-     d88P888          888        ${BLUE}888    888                          
-    d88P 888 88888b.  888888 888 ${BLUE}888   d88P .d88b.  888d888 88888b.  
-   d88P  888 888  88b 888    888 ${BLUE}8888888P  d88  88b 888P    888  88b 
-  d88P   888 888  888 888    888 ${BLUE}888       888  888 888     888  888 
- d8888888888 888  888 Y88b.  888 ${BLUE}888       Y88  88P 888     888  888 
-d88P     888 888  888  Y888 888 ${BLUE}888         Y88P   888     888  888 ${cyan}
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-▒ https://www.github.com/Anlominus/${white}Anti${blue}Porn"
+  echo "
+  $white
+  $white        d8888          888    d8b ${cyan}8888888b.
+  $white       d88888          888    Y8P ${cyan}888   Y88b
+  $white      d88P888          888        ${cyan}888    888
+  $white     d88P 888 88888b.  888888 888 ${cyan}888   d88P .d88b.  888d888 88888b.
+  $white    d88P  888 888  88b 888    888 ${cyan}8888888P  d88  88b 888P    888  88b
+  $white   d88P   888 888  888 888    888 ${cyan}888       888  888 888     888  888
+  $white  d8888888888 888  888 Y88b.  888 ${cyan}888       Y88  88P 888     888  888
+  $white d88P     888 888  888  Y888 888  ${cyan}888         Y88P   888     888  888 ${MAGENTA}
+  ${cyan}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${white}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+            ${white}  ▒ https://www.github.com/Anlominus/${white}Anti${cyan}Porn ▒"
 }
 logo="$(Banner)"
 
 Prompt(){
   echo ""
-  echo "  ${orange}  ┌──[${blue}Anlominus${purple}👽${white}Anti${blue}Porn${cyan}$~${orange}]${cyan}"
-  echo "  ${orange}  └──╼${green}"
+  echo "  ${orange}  ┌──[${orange}Anlominus${purple}👽${white}Anti${cyan}Porn${cyan}$~${orange}]${cyan}"
+  echo "  ${orange}  └──╼${orange}"
 }
 Backup(){
   echo "# Backup Old /etc/hosts To /etc/hosts_old"
   sleep 1
   `sudo cp /etc/hosts /etc/hosts_old`
   sleep 2
-  echo "# Backup Done Successfully !"  
+  echo "# Backup Done Successfully !"
   sleep 1
   }
-  
+
 Rename(){
   echo "# Renaming old PornHosts To hosts"
   sleep 1
   `sudo mv PornHosts hosts`
   sleep 2
-  echo "# Renaming Done Successfully !"  
+  echo "# Renaming Done Successfully !"
   sleep 1
   }
-  
+
 Replace(){
   echo "# Replacing new hosts With old /etc/hosts"
   sleep 1
   `sudo cp hosts /etc/hosts`
   sleep 2
-  echo "# ${white}Anti${blue}Porn Done Successfully !"  
+  echo "# ${white}Anti${cyan}Porn Done Successfully !"
   sleep 1
   }
- 
+
 Intall(){
-  clear 
+  clear
   sleep 1
   Backup
   sleep 1
@@ -93,7 +94,7 @@ Intall(){
   sleep 1
   Replace
   sleep 1
-  echo "# ${white}Anti${blue}Porn Installing Successfully !"  
+  echo "# ${white}Anti${cyan}Porn Installing Successfully !"
   sleep 5
 }
 
@@ -102,9 +103,9 @@ About(){
   sleep 1
   Banner
   sleep 1
-  echo " ${white}Anti${blue}Porn ${orange} v1${nc}"
-  echo " ${white}Anti${blue}Porn is a library of Porno Hosts"
-  echo " ${white}Anti${blue}Porn tools for MacOS, Windows, Linux, Android"
+  echo " ${white}Anti${cyan}Porn ${orange} v1${nc}"
+  echo " ${white}Anti${cyan}Porn is a library of Porno Hosts"
+  echo " ${white}Anti${cyan}Porn tools for MacOS, Windows, Linux, Android"
   echo " ${red}Warning:${nc}"
   sleep 5
 
@@ -114,10 +115,12 @@ About(){
 Menu() {
   while true; do
     clear
-    echo "$(banner)"
+    Banner
     echo " "
-    echo "${cyan}     [a] ${green} Automating Install ${white}Anti${blue}Porn"    
-    echo "${cyan}         ${green}[ Manual Installing ]"
+    echo "${cyan}     ${cafe}[ Automating Installing ]"
+    echo "${cyan}     [a] ${green} Auto Install ${white}Anti${cyan}Porn"
+    echo " "
+    echo "${cyan}     ${cafe}[ Manual Installing ]"
     echo "${cyan}     [1] ${green} Backup old Hosts to hosts_old "
     echo "${cyan}     [2] ${green} Rename PornHosts to hosts"
     echo "${cyan}     [3] ${green} Replace & Install"
