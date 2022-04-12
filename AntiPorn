@@ -61,7 +61,7 @@ Prompt(){
 Backup(){
   echo "# Backup Old /etc/hosts To /etc/hosts_old"
   sleep 1
-  `sudo cp /etc/hosts /etc/hosts_old`
+  sudo cp /etc/hosts /etc/hosts_old
   sleep 2
   echo "# Backup Done Successfully !"
   sleep 1
@@ -70,7 +70,7 @@ Backup(){
 Rename(){
   echo "# Renaming old PornHosts To hosts"
   sleep 1
-  `sudo mv PornHosts hosts`
+  mv PornHosts hosts
   sleep 2
   echo "# Renaming Done Successfully !"
   sleep 1
@@ -79,14 +79,13 @@ Rename(){
 Replace(){
   echo "# Replacing new hosts With old /etc/hosts"
   sleep 1
-  `sudo cp hosts /etc/hosts`
+  sudo cp -f hosts /etc/hosts
   sleep 2
   echo "# ${white}Anti${cyan}Porn Done Successfully !"
   sleep 1
   }
 
 Intall(){
-  clear
   sleep 1
   Backup
   sleep 1
