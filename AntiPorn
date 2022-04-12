@@ -49,7 +49,7 @@ Banner(){
   $white  d8888888888 888  888 Y88b.  888 ${cyan}888       Y88  88P 888     888  888
   $white d88P     888 888  888  Y888 888  ${cyan}888         Y88P   888     888  888 ${MAGENTA}
   ${cyan}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒${white}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-            ${white}  ▒ https://www.github.com/Anlominus/${white}Anti${cyan}Porn ▒"
+            ${white}  ▒ https://www.github.com/Anlominus/${white}Anti${cyan}Porn ▒${orange} April 2022"
 }
 logo="$(Banner)"
 
